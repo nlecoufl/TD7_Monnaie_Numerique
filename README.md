@@ -12,7 +12,8 @@ Deploy with
     
 ## React App
 Run with
-    
+
+    npx create-react-app client
     cd client
     npm start
     
