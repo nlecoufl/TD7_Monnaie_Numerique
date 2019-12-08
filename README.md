@@ -14,7 +14,7 @@ Webpage to display the token registry name, the total token number, the chainId 
 Webpage to display the token characteristics 
 ![alt text](screens/screen2.png)
 
-Webpage to display the user tokens hold
+Webpage to display the user tokens
 ![alt text](screens/screen3.png)
 
 Webpage to display buy tokens
