@@ -6,9 +6,17 @@ Contract with a function to get the name of the token registry, a counter to sho
 
 --> [ERC721 Token](https://github.com/nlecoufl/TD7_Monnaie_Numerique/blob/master/contracts/Token.sol)
 
+Deploy with
+    
+    truffle migrate
+    
 ## React App
-
-Webpage to display the token registry name, the total token number, the chainId and the last block number
+Run with
+    
+    cd client
+    npm start
+    
+Start a webpage to display the token registry name, the total token number, the chainId and the last block number
 ![alt text](screens/screen1.png)
 
 Webpage to display the token characteristics 
