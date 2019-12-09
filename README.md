@@ -10,7 +10,7 @@ Deploy with
     
     truffle migrate 
     
-Fichier de déploiement [2_deploy_contracts.js](https://github.com/nlecoufl/TD7_Monnaie_Numerique/blob/master/contracts/Token.sol).
+Deployment file [2_deploy_contracts.js] (https://github.com/nlecoufl/TD7_Monnaie_Numerique/blob/master/contracts/Token.sol).
 We deploy the contract and then mint 2 tokens with their corresponding image :
 
     let tokenName = "Test";
