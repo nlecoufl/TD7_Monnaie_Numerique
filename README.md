@@ -1,5 +1,4 @@
-# TD7_Monnaie_Numerique
-Repository of Nicolas Matusiak and Nicolas Lecouflet for the TD7 of "Monnaies Numériques"
+# Smart-contract
 
 ## Functional ERC721 token 
 Contract with a function to get the name of the token registry, a counter to show total number of created token and a mint() function to mint new tokens to anyone paying 0.1 ETH
